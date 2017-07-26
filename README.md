@@ -1,5 +1,12 @@
 # iOS-Cracked-Apps
 
+<p align="center">
+
+<img src="Images/banner.jpg" alt="Debug" title="Debug"/>
+
+</p>
+
+> 提供国内外知名 App 破解二进制文件，可以将这些已经破解的二进制文件通过反编译工具进行静态分析，另外仓库中已经从破解的二进制文件 dump 出了 Class 信息。
 
 | App | Version | Dumped Classes | 砸壳工具 | 
 |:-------:|:-------:|:------|:------|
