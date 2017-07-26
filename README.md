@@ -15,3 +15,4 @@
 | 携程 | 7.5.2  | [Ctrip](./DumpedClasses/Ctrip/) | dumpdecrypted |
 | 手机淘宝 | 6.9.1  | [Taobao](./DumpedClasses/Taobao/) | Clutch 砸壳失败 dumpdecrypted 砸壳成功|
 | 手机QQ | 7.1.5  | [QQ](./DumpedClasses/QQ/) | Clutch |
+| 腾讯视频 | 7.1.5  | [腾讯视频](./DumpedClasses/TencentLive/) | Clutch |
