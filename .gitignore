@@ -1,0 +1,11 @@
+#----------------------------------------------------------------------------
+# Ignore these files when commiting to a git repository.
+#
+# See http://git-scm.com/docs/gitignore for more about ignoring files.
+#----------------------------------------------------------------------------
+
+# Mac finder artifacts
+.DS_Store
+
+
+*.AlipayWallet
