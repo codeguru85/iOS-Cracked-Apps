@@ -21,6 +21,7 @@
 | 小红书 | 4.22.1 | [Discover](./DumpedClasses/Discover/) | dumpdecrypted |
 | 摩拜 | 5.3.1 | [Mobike](./DumpedClasses/Mobike/) | dumpdecrypted |
 | 网易云音乐 | 4.1.2 | [NeteaseMusic](./DumpedClasses/NeteaseMusic/) | dumpdecrypted |
+| 酷狗音乐 | 8.8.0 | [Kugou](./DumpedClasses/Kugou/) | dumpdecrypted |
 | 今日头条 | 6.2.1 | [News](./DumpedClasses/News/) | dumpdecrypted |
 | 滴滴出行 | 5.1.4 | [OneTravel](./DumpedClasses/OneTravel/) | dumpdecrypted |
 
